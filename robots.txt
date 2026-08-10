@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7zdk24.pulaucuan.sbs/sitemap.xml
